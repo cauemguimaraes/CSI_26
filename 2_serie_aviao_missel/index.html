@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Missile Animation</title>
+    <style>
+        /* Estilos para posicionar os botões no canto superior esquerdo */
+        #startButton {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+
+        #stopButton {
+            position: absolute;
+            top: 40px;
+            left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="gameCanvas" width="800" height="600"></canvas>
+    <button id="startButton">com som</button>
+    <button id="stopButton">mudo</button>
+    <audio id="explosionSound" src="explosion.mp3"></audio>
+    <audio id="missileSound" src="missile.mp3"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
+
