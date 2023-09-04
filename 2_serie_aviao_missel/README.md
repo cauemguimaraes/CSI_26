@@ -2,7 +2,7 @@
 
 Este é um projeto de jogo simples criado com HTML5, JavaScript e o elemento Canvas. O jogo permite que um avião siga o cursor do mouse, um míssil seja disparado na direção do avião e há suporte para efeitos sonoros com opção de habilitar ou desabilitar o som.
 
-![Captura de Tela do Jogo](screenshot.png)
+
 
 ## Funcionalidades
 
