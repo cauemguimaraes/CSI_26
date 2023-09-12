@@ -1,0 +1,15 @@
+#editor {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+#dom-tree {
+    border: 1px solid #000;
+    padding: 10px;
+    margin: 10px;
+}
+
+.selected {
+    background-color: yellow;
+}

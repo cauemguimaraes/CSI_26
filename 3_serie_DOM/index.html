@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor de Árvore DOM</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="editor">
+        <h1>Editor de Árvore DOM</h1>
+        <div id="dom-tree">
+            <ul id="root" class="element">
+                <li class="element">Raiz
+                    <ul>
+                        <li class="element">Filho 1</li>
+                        <li class="element">Filho 2</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div id="controls">
+            <button id="addChildButton">Adicionar Filho</button>
+            <button id="addSiblingButton">Adicionar Irmão</button>
+            <button id="removeButton">Remover Elemento</button>
+            <button id="changeColorButton">Mudar Cor</button>
+            <button id="changeNameButton">Mudar Nome</button>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
