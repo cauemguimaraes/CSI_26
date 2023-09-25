@@ -49,14 +49,20 @@ O servidor estará acessível em `http://localhost:3000`.
 
 Sinta-se à vontade para contribuir ou relatar problemas abrindo uma issue neste repositório.
 
-![Exibição de Arquivos Estáticos](/images/image1.png)
+![Exibição de Arquivos Estáticos](/4_serie_NODE/minha_aplicacao_express
+/images/image1.png)
 
-![Upload de Arquivos](/images/image1.png)
+![Upload de Arquivos](/4_serie_NODE/minha_aplicacao_express
+/images/image2.png)
 
-![Upload de Arquivos](/images/image1.png)
+![Upload de Arquivos](/4_serie_NODE/minha_aplicacao_express
+/images/image3.png)
 
-![Processamento de Dados via GET](/images/image1.png)
+![Processamento de Dados via GET](/4_serie_NODE/minha_aplicacao_express
+/images/image4.png)
 
-![Processamento de Dados via GET](/images/image1.png)
+![Processamento de Dados via GET](/4_serie_NODE/minha_aplicacao_express
+/images/image5.png)
 
-![Aplicação AJAX](/images/image1.png)
+![Aplicação AJAX](/4_serie_NODE/minha_aplicacao_express
+/images/image6.png)
