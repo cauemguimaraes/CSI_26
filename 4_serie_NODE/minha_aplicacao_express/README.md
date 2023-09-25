@@ -49,20 +49,14 @@ O servidor estará acessível em `http://localhost:3000`.
 
 Sinta-se à vontade para contribuir ou relatar problemas abrindo uma issue neste repositório.
 
-![Exibição de Arquivos Estáticos](/4_serie_NODE/minha_aplicacao_express
-/images/image1.png)
+![Exibição de Arquivos Estáticos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image1.png)
 
-![Upload de Arquivos](/4_serie_NODE/minha_aplicacao_express
-/images/image2.png)
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image2.png)
 
-![Upload de Arquivos](/4_serie_NODE/minha_aplicacao_express
-/images/image3.png)
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image3.png)
 
-![Processamento de Dados via GET](/4_serie_NODE/minha_aplicacao_express
-/images/image4.png)
+![Processamento de Dados via GET](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image4.png)
 
-![Processamento de Dados via GET](/4_serie_NODE/minha_aplicacao_express
-/images/image5.png)
+![Processamento de Dados via GET](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image5.png)
 
-![Aplicação AJAX](/4_serie_NODE/minha_aplicacao_express
-/images/image6.png)
+![Aplicação AJAX](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image6.png)
