@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minha Aplicação Express</title>
+</head>
+<body>
+  <h1>Envio de Arquivos</h1>
+  <form action="/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file">
+    <input type="submit" value="Enviar Arquivo">
+  </form>
+
+  <h1>Formulário GET</h1>
+  <form action="/process-form" method="get">
+    <input type="text" name="data" placeholder="Digite algo">
+    <input type="submit" value="Enviar">
+  </form>
+
+  <h1>Aplicação AJAX</h1>
+  <p id="ajax-data"></p>
+  <button id="ajax-button">Carregar Dados via AJAX</button>
+
+  <script>
+    const button = document.getElementById('ajax-button');
+    const paragraph = document.getElementById('ajax-data');
+
+    button.addEventListener('click', () => {
+      fetch('/data.json')
+        .then((response) => response.json())
+        .then((data) => {
+          paragraph.textContent = data.message;
+        });
+    });
+  </script>
+</body>
+</html>
