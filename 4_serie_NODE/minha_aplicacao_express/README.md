@@ -33,30 +33,31 @@ O servidor estará acessível em `http://localhost:3000`.
 
 - A aplicação é capaz de servir arquivos estáticos localizados na pasta "public".
 
+![Exibição de Arquivos Estáticos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image1.png)
+
 ### 2. Upload de Arquivos
 
 - A aplicação suporta o upload de arquivos via formulário POST.
 
-### 3. Processamento de Dados via GET
-
-- Dados enviados via formulário GET são processados e exibidos na página.
-
-### 4. Aplicação AJAX
-
-- Ao clicar no botão "Carregar Dados via AJAX", os dados em formato JSON são recuperados do servidor e exibidos na página.
-
-## Contribuindo
-
-Sinta-se à vontade para contribuir ou relatar problemas abrindo uma issue neste repositório.
-
-![Exibição de Arquivos Estáticos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image1.png)
-
 ![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image2.png)
 
 ![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image3.png)
+### 3. Processamento de Dados via GET
+
+- Dados enviados via formulário GET são processados e exibidos na página.
 
 ![Processamento de Dados via GET](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image4.png)
 
 ![Processamento de Dados via GET](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image5.png)
 
+### 4. Aplicação AJAX
+
+- Ao clicar no botão "Carregar Dados via AJAX", os dados em formato JSON são recuperados do servidor e exibidos na página.
+
 ![Aplicação AJAX](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image6.png)
+
+
+
+
+
+
