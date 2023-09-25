@@ -39,16 +39,20 @@ O servidor estará acessível em `http://localhost:3000`.
 
 - A aplicação suporta o upload de arquivos via formulário POST.
 
-![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image2.png)
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image4.png)
 
-![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image3.png)
+![Upload de ArquivosT](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image5.png)
+
+
+
+
 ### 3. Processamento de Dados via GET
 
 - Dados enviados via formulário GET são processados e exibidos na página.
 
-![Processamento de Dados via GET](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image4.png)
+![Processamento de Dados via GET](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image3.png)
 
-![Processamento de Dados via GET](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image5.png)
+![Processamento de Dados via GET](https://github.com/cauemguimaraes/CSI_26/blob/main/4_serie_NODE/minha_aplicacao_express/images/image2.png)
 
 ### 4. Aplicação AJAX
 
