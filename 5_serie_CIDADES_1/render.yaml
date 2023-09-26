@@ -6,6 +6,6 @@ web:
       - key: PORT
         value: 5000  # Port on which the server should run
 
-  - name: client
-    buildCommand: cd client && npm install
-    startCommand: cd client && npm start
+  - name: cidade-info-frontend
+    buildCommand: cd cidade-info-frontend && npm install
+    startCommand: cd cidade-info-frontend && npm start
