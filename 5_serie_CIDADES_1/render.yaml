@@ -1,0 +1,11 @@
+web:
+  - name: server
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: PORT
+        value: 5000  # Port on which the server should run
+
+  - name: client
+    buildCommand: cd client && npm install
+    startCommand: cd client && npm start
