@@ -1,5 +1,5 @@
 web:
-  - name: server
+  - name: 5_serie_CIDADES_1
     buildCommand: npm install
     startCommand: node server.js
     envVars:
