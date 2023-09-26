@@ -47,19 +47,27 @@ O aplicativo estará disponível em http://localhost:3000.
 ## Estrutura de Diretórios
 
 servidor/: Contém o código do servidor Node que fornece os dados das cidades em formato JSON.
+
 public/: Contém arquivos públicos acessíveis pelo aplicativo React, incluindo a pasta "images" para as imagens das cidades.
+
 src/: Contém o código-fonte do aplicativo React.
 
 ## Dados das Cidades
 Os dados das cidades são fornecidos pelo servidor Node e estão localizados no arquivo server.js na pasta servidor. Cada cidade possui os seguintes campos:
 
 nome: Nome da cidade.
+
 estado: Estado da cidade.
+
 país: País da cidade.
+
 população: População da cidade.
+
 imagem: Nome do arquivo de imagem da cidade localizado na pasta "public/images".
 
 ## Tecnologias Utilizadas
 React - Biblioteca para construção da interface de usuário.
+
 Node.js - Ambiente de servidor para fornecer dados das cidades.
+
 Express - Framework para desenvolvimento de aplicativos web em Node.js.
