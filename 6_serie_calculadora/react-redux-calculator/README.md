@@ -20,8 +20,9 @@ Este é um projeto simples de calculadora implementado com React e Redux.
 Executando o Projeto:
 Inicie o servidor de desenvolvimento com o comando:
 
-npm start
+   
+   npm install
 
 Acesse a aplicação no navegador em http://localhost:3000/.
 
-Capturas de Tela
+## Capturas de Tela
