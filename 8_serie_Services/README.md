@@ -51,19 +51,10 @@ Nos componentes que precisam acessar ou modificar o estado global, importamos o 
 
 
 // Exemplo de utilização em TaskList.js
+
 const { state /*, funções do serviço */ } = useTask();
 
 
 ### 3. Provedor do Contexto
 No componente principal (App.js), envolvemos a aplicação com o Provedor do Contexto. Isso garante que todos os componentes abaixo desse nível tenham acesso ao contexto e, portanto, ao estado global da aplicação.
-
-jsx
-Copy code
-// Exemplo de envolvimento da aplicação com o Provedor do Contexto em App.js
-<TaskProvider>
-  <div>
-    <TaskList />
-    {/* Adicione outros componentes que precisam do serviço */}
-  </div>
-</TaskProvider>
 Dessa forma, os componentes podem compartilhar estado e funções sem a necessidade de passar propriedades manualmente entre eles. Isso simplifica a gestão do estado global da aplicação.
