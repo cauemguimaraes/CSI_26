@@ -49,7 +49,7 @@ No arquivo `TaskContext.js`, criamos um contexto utilizando a função `createCo
 
 Nos componentes que precisam acessar ou modificar o estado global, importamos o contexto e utilizamos o hook `useContext` para obter acesso ao estado e às funções fornecidas pelo contexto.
 
-```jsx
+
 // Exemplo de utilização em TaskList.js
 const { state /*, funções do serviço */ } = useTask();
 3. Provedor do Contexto
