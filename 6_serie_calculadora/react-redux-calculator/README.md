@@ -26,3 +26,23 @@ Inicie o servidor de desenvolvimento com o comando:
 Acesse a aplicação no navegador em http://localhost:3000/.
 
 ## Capturas de Tela
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image1.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image2.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image3.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image4.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image5.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image6.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image7.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image8.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image9.png)
+
+![Upload de Arquivos](https://github.com/cauemguimaraes/CSI_26/blob/main/6_serie_calculadora/react-redux-calculator/images/image10.png)
