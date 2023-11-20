@@ -1,6 +1,6 @@
-# Minha Aplicação com Angular e React
+# Minha Aplicação com Angular 
 
-Este projeto é uma aplicação simples para gerenciar uma lista de tarefas, desenvolvida utilizando Angular e React. O objetivo é demonstrar a utilidade de componentes Services em Angular e mostrar como implementar serviços em React usando o Context API.
+Este projeto é uma aplicação simples para gerenciar uma lista de tarefas, desenvolvida utilizando Angular. O objetivo é demonstrar a utilidade de componentes Services em Angular e mostrar como implementar serviços em React usando o Context API.
 
 ## Angular: Utilidade de Componentes Services
 
