@@ -1,0 +1,42 @@
+{
+    "cidades": [
+      {
+        "id": 1,
+        "nome": "Nova York",
+        "estado": "Nova York",
+        "pais": "Estados Unidos",
+        "habitantes": 8398748,
+        "imagem": "new_york.jpg",
+        "informacoes": "Informações sobre Nova York"
+      },
+      {
+        "id": 2,
+        "nome": "Los Angeles",
+        "estado": "Califórnia",
+        "pais": "Estados Unidos",
+        "habitantes": 3990456,
+        "imagem": "los_angeles.jpg",
+        "informacoes": "Informações sobre Los Angeles"
+      },
+      {
+        "id": 3,
+        "nome": "Paris",
+        "estado": null,
+        "pais": "França",
+        "habitantes": 2206488,
+        "imagem": "paris.jpg",
+        "informacoes": "Informações sobre Paris"
+      },
+      {
+        "id": 4,
+        "nome": "Londres",
+        "estado": null,
+        "pais": "Reino Unido",
+        "habitantes": 8982000,
+        "imagem": "london.jpg",
+        "informacoes": "Informações sobre Londres"
+      }
+      
+    ]
+  }
+  
